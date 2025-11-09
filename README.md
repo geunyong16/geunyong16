@@ -4,20 +4,9 @@
 ---
 
 ### 🧩 About Me  
-- 💻 백엔드 개발자 **조용근(Cho Yong-geun)**입니다.  
+- 💻 백엔드 개발자 조용근(Cho Yong-geun)입니다.  
 - 🧠 데이터 구조 설계와 서버 아키텍처의 효율화에 관심이 많습니다.  
-- 🌱 현재 **Spring Boot + JPA + AWS 환경의 상용 프로젝트**를 진행 중입니다.  
-- 💡 “기능을 구현하는 개발자”가 아니라, **“서비스 구조를 설계하는 개발자”**가 되고자 합니다.
-
----
-
-### 📊 Github Stats
-<div align="center">
-
-![Yonggeun's GitHub stats](https://github-readme-stats.vercel.app/api?username=geunyong16&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geunyong16&layout=compact&theme=radical&hide_border=true)
-
-</div>
+- 💡 “기능을 구현하는 개발자”가 아니라, “서비스 구조를 설계하는 개발자”가 되고자 합니다.
 
 ---
 
