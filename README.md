@@ -52,56 +52,8 @@
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white"/>
 </p>
 
-#### 🧠 LLM Serving (AI/ML)  
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Uvicorn-499848?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat-square&logo=gunicorn&logoColor=white"/>
-</p>
-
 #### 🗄️ Database  
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
-
-#### 🎨 Front-End  
-<p>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=thymeleaf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-</p>
-
-#### ⚙️ DevOps  
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-</p>
-
-#### ☁️ Cloud  
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
-</p>
-
----
-
-### 📫 Contact  
-- 📧 **ygcho.dev@gmail.com**  
-- 🌐 [GitHub Profile](https://github.com/geunyong16)  
-- 🪪 [Solved.ac Profile](https://solved.ac/yonggeun16)
-
----
-
-### 🧭 Motto  
-> “좋은 개발자는 기능을 완성하는 사람이 아니라, 구조를 설계하는 사람이다.”  
-
----
-
-<div align="center">
-  
-⭐️ From [geunyong16](https://github.com/geunyong16)
-  
-</div>
